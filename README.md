@@ -1,6 +1,6 @@
 # Data Sonification with Python
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/data-sonification-with-python/data-sonification-with-python.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/data-sonification-with-python/blob/main/data-sonification-with-python.ipynb)
 
 This workshop introduces the concept of data sonification, using characteristics of sound to represent information. Sonification can provide an alternate mode for communicating data with implications for accessibility, engagement, and discovery. Participants in this workshop will get an overview of sonification techniques and tools and learn basic processes for mapping data to sound using the Python programming language.
 
