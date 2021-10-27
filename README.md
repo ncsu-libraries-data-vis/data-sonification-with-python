@@ -10,9 +10,7 @@ To create a copy of the workshop materials, and run the code, click the Open in 
 
 ## Running on a local machine
 
-TODO
-- download fluidsynth (directions available in [this GitHub repository](https://github.com/FluidSynth/fluidsynth/wiki/Download))
-- download soundfont
+To run on a local machine you need to install all of the necessary Python libraries. You must also install fluidsynth (directions available in [this GitHub repository](https://github.com/FluidSynth/fluidsynth/wiki/Download)) to process MIDI files.
 ## Credits
 
 This workshop was developed by Walt Gurley at NC State University Libraries.
